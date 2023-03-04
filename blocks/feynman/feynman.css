@@ -1,4 +1,3 @@
-/* секция с Фейнманом */
 .feynman {
   position: relative;
   min-height: 890px;
@@ -9,26 +8,3 @@
   background-position: bottom left;
   background-size: 867px 637px;
 }
-
-.feynman__title {
-  width: 648px;
-  margin-top: 100px;
-  line-height: 1.15;
-  font-size: 120px;
-  text-align: center;
-}
-
-.feynman__subtitle {
-  margin-top: 70px;
-  line-height: 51px;
-  font-size: 36px;
-}
-
-.feynman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  line-height: 51px;
-  font-size: 36px;
-}
-/* /секция с Фейнманом */
