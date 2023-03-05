@@ -2,6 +2,7 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  max-width: 765px;
-  max-height: 608px;
+  width: 765px;
+  height: 608px;
+  object-fit: cover;
 }
