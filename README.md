@@ -11,3 +11,4 @@
 4. контейнеров iframe;
 5. методологии БЭМ.
 
+GH Pages: https://drmackey.github.io/how-to-learn/
