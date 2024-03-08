@@ -12,3 +12,6 @@
 5. методологии БЭМ.
 
 GH Pages: https://drmackey.github.io/how-to-learn/
+
+![drmackey github io_how-to-learn_](https://github.com/DrMackey/how-to-learn/assets/92988373/3ef86c6c-a96f-443c-ac38-9608753a0a54)
+
